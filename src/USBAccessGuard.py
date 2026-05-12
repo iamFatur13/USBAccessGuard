@@ -215,6 +215,7 @@ if __name__ == "__main__":
 
 
 #add comment
+#add comment lagi
 ''' Script di bawah ini Sudah berjalan dengan Baik 
 import os
 import winreg
