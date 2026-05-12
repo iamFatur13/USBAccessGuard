@@ -214,7 +214,7 @@ if __name__ == "__main__":
     app.mainloop()
 
 
-
+#add comment
 ''' Script di bawah ini Sudah berjalan dengan Baik 
 import os
 import winreg
