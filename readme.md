@@ -1,4 +1,4 @@
-# 🛡️ USB Guard Pro -iamFatur- Edition
+# 🛡️ USB Access Guard 
 
 **Solusi Whitelist USB Selektif untuk Keamanan Data Perusahaan.**
 
